@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>phucnt38.png</file>
+        <file>phuc.png</file>
+    </qresource>
+</RCC>
