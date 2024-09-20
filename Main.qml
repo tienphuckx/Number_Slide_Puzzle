@@ -22,7 +22,7 @@ Window {
     property string _COLOR_ORANGE: "orange"
 
     property string _EMPTY_STRING: ""
-    property int stepCntValue: 49
+    property int stepCntValue: 0
     property string statusColor: ""
 
     property var puzzleArray: [
